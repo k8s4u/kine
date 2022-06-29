@@ -6,7 +6,7 @@ supporting the [acceptance of K3s as a CNCF sandbox project](https://github.com/
 
 ---
 
-Kine is an etcdshim that translates etcd API to sqlite, Postgres, Mysql, and dqlite
+Kine is an etcdshim that translates etcd API to sqlite, Postgres, Mysql, MS SQL Server, and dqlite
 
 ## Features
 - Can be ran standalone so any k8s (not just k3s) can use Kine

@@ -5,6 +5,7 @@ go 1.16
 require (
 	github.com/Rican7/retry v0.1.0
 	github.com/canonical/go-dqlite v1.5.1
+	github.com/denisenkom/go-mssqldb v0.12.2
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/klauspost/compress v1.14.4
 	github.com/lib/pq v1.10.2
